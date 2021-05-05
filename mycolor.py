@@ -1,0 +1,10 @@
+class Color:
+    RED = '\033[91m'
+    UNDERLINE = '\033[4m'
+    BLUE = '\033[94m'
+    GREEN = '\033[92m'
+    YELLOW = '\033[93m'
+    PURPLE = '\033[95m'
+    CYAN = '\033[96m'
+    DARK_CYAN = '\033[36m'
+    END = '\033[0m'
